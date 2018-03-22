@@ -21,7 +21,7 @@ NimBLE complies with Bluetooth Core Specification 5.0 which makes it an ideal wi
 * LE Privacy 1.2 for frequent changes to the device address to make it difficult to track for outsiders
 * LE Secure Connections featuring FIPS-compliant algorithms.
 * LE Data Length Extension for higher throughput
-* **Coming Soon**: Assigning an Internet Protocol (IP) address (complaint with the IPv6 or 6LoWPAN standard) to a Bluetooth device through Internet Protocol Support Profile (IPSP)
+* **Coming Soon**: Assigning an Internet Protocol (IP) address (compliant with the IPv6 or 6LoWPAN standard) to a Bluetooth device through Internet Protocol Support Profile (IPSP)
 
 The Bluetooth 5 is backward compatible with previous Bluetooth version 4.2 which is also supported by Apache Mynewt.
 
